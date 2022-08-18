@@ -169,3 +169,8 @@ __pycache__
 
 # IOLogger logs
 *_log.csv
+
+.direnv
+.direnv
+.direnv/flake-profile
+.direnv/flake-profile-1-link
